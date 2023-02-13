@@ -1,5 +1,6 @@
 # 玩客云openwrt镜像制作：
 1.可以让本身不支持emmc驱动的openwrt通过和玩客云的armbian镜像移植后实现支持emmc，方便写入emmc.
+2.移植得到新的openwrt镜像，如果无法启动，则尝试使用原本openwrt.img镜像里的dtb文件或找其他合适的dtb文件.
 
 # 斐讯N1盒子OpenWRT镜像自动构建脚本
 
